@@ -7,7 +7,6 @@ fn index() -> &'static str {
     "Hello, world!"
 }
 
-
 // #[get("/.well-known/webfinger?<resource>")]
 // fn acct(resource: &str) -> Option<content::RawJson<String>> {
 //     fs::read_to_string(format!("{resource}.json")).ok().map(|s| content::RawJson(s))
