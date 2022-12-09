@@ -1,3 +1,5 @@
 /target
 private.pem
 public.pem
+log.txt
+PIDFILE
