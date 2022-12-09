@@ -1,0 +1,11 @@
+{
+	"subject": "acct:css@apub.skweekychair.games",
+
+	"links": [
+		{
+			"rel": "self",
+			"type": "application/activity+json",
+			"href": "https://apub.skweekychair.games/actor"
+		}
+	]
+}

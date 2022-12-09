@@ -1,0 +1,17 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/activitystreams",
+        "https://w3id.org/security/v1"
+    ],
+
+    "id": "https://apub.skweekychair.games/actor",
+    "type": "Person",
+    "preferredUsername": "css",
+    "inbox": "https://apub.skweekychair.games/inbox",
+
+    "publicKey": {
+        "id": "https://apub.skweekychair.games/actor#main-key",
+        "owner": "apub.skweekychair.games/actor",
+        "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5b+8tOGCwthuXcbokiAE\nLCwcWzdGuq5PACXd9Up7iogWWhyDLJtIirtagyDl4pJAx9MBVCiZ6/O2Gv+q9iTt\nbQhjz5pyj2ZGWIJ2kr0IxTK4CGjeHsbzootqhLzZWee0tnsKQOYPTe5Xb6Rms67i\nHTHpgyR/pgg6MRZzARCpd4nHK3xSWcwfx7asuZw+Oz4Q81cyEymZ+GgysSennGFC\nqYzrded8ZlURZKxSezKaH8Tez8KpdULzZhJlOZP7sHpXqypdVyEs6jRPi3/xOmlU\ngwHPgMmgXrQL2NcA0gb25yd+5NjhnSND4I9fzir7m3DDtb1UdHVWr16p+KbTvWFD\nCwIDAQAB\n-----END PUBLIC KEY-----"
+    }
+}
