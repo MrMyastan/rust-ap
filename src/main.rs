@@ -4,7 +4,7 @@ use rocket::fs::NamedFile;
 
 #[get("/")]
 fn index() -> &'static str {
-    "Hello, world!"
+    "Hll, wrld!"
 }
 
 // #[get("/.well-known/webfinger?<resource>")]
